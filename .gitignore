@@ -1,0 +1,25 @@
+# ==== Java / Spring Boot ====
+target/
+*.log
+*.tmp
+
+# ==== Node / Vue ====
+node_modules/
+dist/
+.vite/
+
+# ==== IntelliJ ====
+.idea/
+*.iml
+out/
+
+# ==== VS Code ====
+.vscode/
+
+# ==== OS files ====
+.DS_Store
+Thumbs.db
+
+# ==== Environment ====
+.env
+.env.*
